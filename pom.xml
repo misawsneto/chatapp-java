@@ -21,6 +21,8 @@
 	</properties>
 
 	<dependencies>
+		<!-- project simple dependencies -->
+		<!--  end of simple dependencies -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
