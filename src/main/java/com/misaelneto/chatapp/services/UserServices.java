@@ -1,4 +1,4 @@
-package com.misaelneto.services;
+package com.misaelneto.chatapp.services;
 
 import org.springframework.stereotype.Service;
 

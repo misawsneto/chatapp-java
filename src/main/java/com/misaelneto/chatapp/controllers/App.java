@@ -1,6 +1,6 @@
-package com.misaelneto.controllers;
+package com.misaelneto.chatapp.controllers;
 
-import com.misaelneto.data.dtos.InitialDataDto;
+import com.misaelneto.chatapp.data.dtos.InitialDataDto;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

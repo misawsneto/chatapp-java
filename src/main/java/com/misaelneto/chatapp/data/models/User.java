@@ -1,4 +1,4 @@
-package com.misaelneto.data.models;
+package com.misaelneto.chatapp.data.models;
 
 import lombok.Builder;
 import lombok.Data;
